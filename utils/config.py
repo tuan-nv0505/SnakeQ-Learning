@@ -3,7 +3,7 @@ from enum import Enum
 import numpy as np
 
 CELL_SIZE = 30
-WIDTH = CELL_SIZE *  30
+WIDTH = CELL_SIZE *  46
 HEIGHT = CELL_SIZE * 30
 
 def get_action(index):
